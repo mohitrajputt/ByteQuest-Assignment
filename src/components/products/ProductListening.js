@@ -45,7 +45,7 @@ function ProductListening() {
                         <i className="fa-regular fa-bookmark" onClick={() => setBookmarkCount(bookmarkCount + 1)} ></i>
                     </div>
                     <div className={style.productView} >
-                        <img src={product.image} />
+                        <img src={product.image} alt="error to fetch" />
                     </div>
                     <div className={style.productDetails} >
                         <p className={style.title} >{product.title}</p>
