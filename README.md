@@ -8,7 +8,7 @@
 
 
 ## Getting Started
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/mohitrajputt/ByteQuest-Assignment.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 4. Access the application in your browser: [http://localhost:3000](http://localhost:3000)
