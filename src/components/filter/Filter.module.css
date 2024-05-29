@@ -1,0 +1,23 @@
+
+
+.filterSection ul{
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+    margin: auto;
+    height: 70px;
+    align-items: center;
+}
+
+.filterSection ul li{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+    text-transform: capitalize;
+}
+
+.filterSection ul li:hover {
+    color: lightblue;
+    cursor: pointer;
+}
